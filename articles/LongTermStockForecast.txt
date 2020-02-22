@@ -1,0 +1,71 @@
+Experts Forecast Long-Term Stock and Bond Returns: 2020 Edition
+Our annual compilation of capital markets return assumptions, from BlackRock to Vanguard.
+
+
+Christine Benz
+Jan 16, 2020
+Mentioned: Wells Fargo Absolute Return A (WARAX)
+While recessionary worries gripped the market in 2018, economic news turned positive in 2019 and has remained so into January of this year. Accordingly, both the stock and bond markets have soared over the past year. Both asset classes have enjoyed an exceptionally strong decade, too: The S&P 500 has gained more than 13% since 2010, while the Bloomberg Barclays U.S. Aggregate Bond Index has returned a less princely--but still respectable--3.5%.
+
+But are stocks and bonds likely to repeat those strong gains over the next decade? Not likely, according to my latest survey of capital markets forecasts released by leading investment firms. Thanks to equity valuations that are even more constrained than they were a year ago, most of the shops I featured in my now-annual compilation are anticipating meager returns from the stock market over the next decade. And with bond yields a good predictor of what fixed-income assets are likely to earn in the decade ahead, most firms acknowledge that today's yields (just over 2% for the Aggregate Index) portend thin gruel for bond investors, too.
+
+How to Use These Forecasts
+At this point, many sensible readers are probably thinking, "Why bother making predictions? Everyone knows you can't predict the market's direction!"
+
+That skepticism is well placed, especially over short time horizons. But the fact is, you need to plug in some sort of a long-term return expectation for planning purposes. Without such a forecast, it's impossible to know how much of a helping hand to expect from the market, and how much of the heavy lifting you'll have to do on your own, either through saving more if you're still in savings mode or withdrawing less if you're retired.
+
+
+
+Before you embed these or any other return forecasts to into your plan, however, it's important to bear in mind that these return estimates are more intermediate-term than they are long. The firms I've included below all prepare capital markets forecasts for the next seven to 10 years, not the next 30. As such, these forecasts will have the most relevant to investors whose time horizons are in that ballpark, or to new retirees who face sequence-of-return risk in the next decade. Investors with very long time horizons of 20 to 30 years or longer can reasonably employ long-term historical returns, but they may want to haircut them a little bit to incorporate what could be a tough next decade.
+
+It's also important to note that the parameters for these return estimates vary a bit; some of the return expectations are inflation-adjusted while others are not (nominal). In addition, some of the experts forecast returns for the next decade, while others employ slightly shorter time horizons. The firms also vary in their approaches to formulating the forecasts, though most rely on some combination of valuations, current yields, and earnings-growth and inflation expectations to arrive at return expectations.
+
+BlackRock Investment Institute 
+Highlights: 6.1% nominal (non-inflation-adjusted) mean expected return for U.S. large-cap equities over the next decade; 6.5% for European equities; 7.5% for emerging-markets equities; 1.7% for the aggregate bond market (September 2019).
+
+BlackRock Investment Institute's Capital Markets Assumption report allows users to home in on return expectations for a broad swath of asset classes and time periods, from five to 25 years. For each asset class, the firm provides a median expected return, as well as "uncertainty bands" depicting returns in a range. The firm provides assumptions for conventional asset classes as well as nontraditional ones such as hedge funds and private equity.
+
+BlackRock Investment Institute's 6% mean expected return for U.S. large caps puts it at the high end of our sampling, but its expectation that foreign stocks would generally outperform U.S. stocks was a common theme across many of the firms. Interestingly, BlackRock's five-year forecasts for U.S. stocks and bonds were more pessimistic than its 10-year and longer-term forecasts, suggesting that the firm believes the market could be weak in the near term. Indeed, the firm's methodology document indicates that it expects corporations to exhibit decent earnings growth over the next five years, but price multiples are apt to contract. Its return forecast for U.S. large caps was 7.0% over the next 25 years, and 2.7% for bonds. 
+
+Grantham Mayo Van Otterloo (GMO) 
+Highlights: Negative 4.4% real (inflation-adjusted) returns for U.S. large caps over the next seven years; negative 2.1% real returns for U.S. bonds; 4.5% real returns for emerging-markets equities; negative 0.2% real returns for emerging-markets debt (November 2019).
+
+GMO has been called a "permabear" for its notoriously pessimistic forecast, and the firm's most recent seven-year forecast upholds that characterization. The firm is expecting a 4% annualized real loss for U.S. equities over the next seven years, and forecasts that U.S. bonds will end up in the red over that time frame, too. No doubt owing to higher valuations for equities and lower starting yields for bonds, its return forecasts for both asset classes are even worse than they were a year ago. Yet the firm retains a sunny outlook for one asset class: emerging-markets equities. It's expecting the broad category to return an annualized, inflation-adjusted 4.5% over the next seven years, while it expects that the value slice of the emerging-markets equity universe to deliver double that return. 
+
+One major turnabout from GMO's seven-year forecast a year ago is that the firm is much less sanguine on the prospects for emerging-markets debt. While a year ago GMO was forecasting a 2.9% real return for emerging-markets debt, it's now expecting real returns from the category to sink slightly into the red over the next seven years.
+
+It's worth noting that the firm's pessimism on U.S. equities and positive outlook for emerging markets has cost it on the return front over the past several years: Wells Fargo Absolute Return (WARAX), which GMO manages, has recently struggled and earns a Morningstar Analyst Rating of Neutral. As U.S. stocks soared in 2019, for example, the fund lagged 90% of its world-allocation peers.
+
+J.P. Morgan
+Highlights: 5.6% return assumption (nominal) for U.S. equities over a 10- to 15-year horizon; 3.4% nominal return assumption for U.S. investment-grade corporate bonds over a 10- to 15-year holding period (November 2019).
+
+J.P. Morgan's capital markets assumption report is wide-ranging and data-packed. The firm's 10- to 15-year return expectations for U.S. equities actually increased a bit in its 2020 release relative to 2019; its forecast for U.S. equities popped up to 5.60% from 5.25% a year earlier. The firm pointed to receding "valuation headwinds" as the rationale for the slightly higher projection but also warned that its long-term return expectations were well below historic norms. In addition, the firm expects developed-markets equities outside the United States to outperform U.S. stocks over the next 10 to 15 years.
+
+Like the other firms, J.P. Morgan sees little cause for enthusiasm for U.S. bonds, noting that the "long-term outlook for returns from government bonds is bleak compared with stocks." Indeed, the firm's return assumption for intermediate-term U.S. Treasuries dropped from 3.25% in its 2019 forecast to 2.70% in its 2020 forecast, and from 4.5% for corporate bonds in 2019 to 3.4% in the 2020 release.
+
+Note that J.P. Morgan Asset Management expresses its return assumptions in nominal, rather than inflation-adjusted, terms. However, the firm expects inflation to remain mild.
+
+Morningstar Investment Management
+Highlights: 1.7% 10-year nominal returns for U.S. stocks; 2.1% 10-year nominal returns for U.S. bonds (Dec. 31, 2019).
+
+Morningstar Investment Management's outlook for U.S. stocks and bonds was fairly pessimistic at this time a year ago, but it's gotten more downbeat still. It's forecasting a 1.7% return for U.S. stocks over the next decade (down from 1.8% a year ago) and just 2.1% for U.S. aggregate bonds, down from 3.3% a year ago.
+
+MIM's outlook is more sanguine outside the U.S., however: The return expectation for non-U.S. stocks from developed markets is 5.8% and 5.3% for emerging markets. In expecting better returns from developed-markets equities than it does from emerging, Morningstar's forecast stands in contrast to those from GMO and Research Affiliates (below); both firms are most sanguine about emerging-markets equities. MIM provides its latest return expectations in the Morningstar Markets Observer; the data referenced above will appear in the upcoming issue.
+
+Research Affiliates 
+Highlights: 0.3% real returns for U.S. large caps during the next 10 years; negative 0.1% real returns for the Aggregate Index (Dec. 31, 2019; valuation-dependent model).
+
+Research Affiliates' expected returns model has long been a standout for being straightforward, customizable, and fun to use. Whereas most firms show expected returns for five or six asset classes, the Research Affiliates model gets more granular, allowing users to home in on smaller segments of the stock and bond markets.
+
+For the past several years, the firm's forecasts have been directionally similar, although not quite as pessimistic, as GMO's: fairly bearish on core U.S. stocks and bonds, but more upbeat about the prospects for emerging-markets equities. The most recently released expected returns from Research Affiliates fit with those general themes. The firm's valuation-dependent model is forecasting a whopping 6.8% real return from emerging-markets equities over the next decade but much less impressive returns from core asset classes: a 0.3% real return for U.S. large caps and a slight loss for the Aggregate Index over the next 10 years. The firm is also forecasting a much higher return--4.9% on a real basis--for non-U.S. developed-markets stocks (the MSCI EAFE Index) than it is for U.S. stocks.
+
+Vanguard 
+Highlights: Nominal U.S. equity-market returns in the 3.5% to 5.5% range during the next decade; 6.5% to 8.5% returns for non-U.S. equities (for U.S. investors); 2% to 3% expected returns for U.S. fixed income (December 2019).
+
+Vanguard's annual Economic and Market Outlook report is comprehensive and digestible; it examines the economy and market prospects from a number of angles and is easy to follow, even for non-economists.
+
+In the latest report, the firm notes that it expects equity returns over the next decade to be "modest at best" and is even more cautious in the near term. "Our near-term outlook for global equity markets remains guarded, and the chance of a large drawdown for equities and other high-beta assets remains elevated and significantly higher than it would be in a normal market environment," the report's authors wrote. 
+
+Yet as with J.P. Morgan, the firm's expected returns for global equities were slightly higher than they were a year ago, thanks to what the firm describes as "more favorable valuations." Vanguard also forecasts returns for various subsegments of the U.S. equity market. Its return forecast for U.S. growth stocks is the lowest, whereas its return expectations for small-cap and value stocks are higher.
+
+On the fixed-income side, the firm is expecting modest returns in the 2% to 3% range from U.S. bonds, with higher returns, along with higher volatility, accruing to investors willing to take on credit risk. That represents a decline from the year prior, with the report's authors noting that, “Our expectation for fixed-income returns has fallen because of declining policy rates, lower yields across maturities, and compressed corporate spreads."

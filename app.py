@@ -1,10 +1,9 @@
 #!/usr/bin/env python
 
 import click
+import readContent
 
-@click.command()
-def hello():
-    click.echo('Hello World!')
 
 if __name__ == '__main__':
-    hello()
+    val = readContent.articleReader("articles")
+    click.echo(val)
